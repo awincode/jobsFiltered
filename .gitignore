@@ -1,0 +1,7 @@
+node_modules/
+immutable0/
+immutable1/
+*.code-workspace
+old.git
+___tmp/
+___kiste/

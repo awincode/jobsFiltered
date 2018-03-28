@@ -1,0 +1,33 @@
+{
+    "B": {
+        "pop": 4,
+        "state": 11,
+        "geo": "E"
+    },
+    "HH": {
+        "pop": 5,
+        "state": 2,
+        "geo": "N"
+    },
+    "M": {
+        "pop": 5,
+        "state": 9,
+        "geo": "S"
+    },
+    "K": {
+        "pop": 5,
+        "state": 5,
+        "geo": "W"
+    },
+    "F": {
+        "pop": 6,
+        "state": 6,
+        "geo": "S"
+    },
+    "S": {
+        "pop": 6,
+        "state": 8,
+        "geo": "S"
+    }
+}
+

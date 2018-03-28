@@ -1,0 +1,206 @@
+{
+    "en": {
+        "filter": {
+            "city": "City",
+            "jobType": "Job Type",
+            "compIndy": "Industry",
+            "compEmply": "Employees",
+            "topOnly": ["top selection first", "only top selection"],
+            "zone": {
+                "sel": {
+                    "title": "Top"
+                },
+                "rest": {
+                    "title": "Further"
+                },
+                "excl": {
+                    "title": "Excluded"
+                }
+            }
+        },
+        "job": {
+            "type": {
+                "1": "Full-time",
+                "2": "Part-time",
+                "3": "Interim"
+            }
+        },
+        "company": {
+            "indy": {
+                "1": "Automotive",
+                "2": "Software Development",
+                "3": "Bank"
+            }, 
+            "emply": {
+                "4": "< 50",
+                "5": "50 - 200",
+                "6": "200 - 500",
+                "7": "500 - 1000",
+                "8": "1000 - 5000",
+                "9": "> 5000"
+            }
+
+        },
+        "city": {
+            "pop": {
+                "4": "> 3 Mio",
+                "5": "1 Mio - 3 Mio",
+                "6": "500 Tsd - 1 Mio",
+                "7": "250 Tsd - 500 Tsd",
+                "8": "100 Tsd - 250 Tsd",
+                "9": "50 Tsd - 100 Tsd",
+                "10": "20 Tsd - 50 Tsd",
+                "11": "5 Tsd - 20 Tsd",
+                "12": "1 Tsd - 5 Tsd",
+                "13": "< 1 Tsd"
+            },
+            "state": {
+                "1": "Schleswig-Holstein",
+                "2": "Freie und Hansestadt Hamburg",
+                "3": "Niedersachsen",
+                "4": "Freie Hansestadt Bremen",
+                "5": "Nordrhein-Westfalen",
+                "6": "Hessen",
+                "7": "Rheinland-Pfalz",
+                "8": "Baden-Württemberg",
+                "9": "Bayern",
+                "10": "Saarland",
+                "11": "Berlin",
+                "12": "Brandenburg",
+                "13": "Mecklenburg-Vorpommern",
+                "14": "Freistaat Sachsen",
+                "15": "Sachsen-Anhalt",
+                "16": "Thüringen"
+            },
+            "geo": {
+                "N": "North",
+                "S": "South",
+                "W": "West",
+                "E": "Est"
+            },
+            "name": {
+                "B": "Berlin",
+                "HH": "Hamburg",
+                "M": "Munich",
+                "K": "Cologne",
+                "F": "Frankfurt/Main",
+                "S": "Stuttgart"
+            }
+    
+        },
+        "country": {
+            "name": {
+                "DE": "Germany"
+            },
+            "geo": {
+                "_": "here as North/South_Europe etc."
+            },
+            "continent": {
+                "_": "this connected to a continent table",
+                "EU": "Europe"
+            }
+        }
+    },
+    "de": {
+        "filter": {
+            "city": "Stadt",
+            "jobType": "Vertrag",
+            "compIndy": "Branche",
+            "compEmply": "Mitarbeiter",
+            "topOnly": ["Top Auswahl zuerst", "nur Top Auswahl"],
+            "zone": {
+                "sel": {
+                    "title": "Top"
+                },
+                "rest": {
+                    "title": "Sonstige"
+                },
+                "excl": {
+                    "title": "Ausgeschlossen"
+                }
+            }
+        },
+        "job": {
+            "type": {
+                "1": "Vollzeit",
+                "2": "Teilzeit",
+                "3": "Interim"
+            }
+        },
+        "company": {
+            "indy": {
+                "1": "Automobil",
+                "2": "Software-Entwicklung",
+                "3": "Bank"
+            }, 
+            "emply": {
+                "4": "< 50",
+                "5": "50 - 200",
+                "6": "200 - 500",
+                "7": "500 - 1000",
+                "8": "1000 - 5000",
+                "9": "> 5000"
+            }
+
+        },
+        "city": {
+            "pop": {
+                "4": "> 3 Mio",
+                "5": "1 Mio - 3 Mio",
+                "6": "500 Tsd - 1 Mio",
+                "7": "250 Tsd - 500 Tsd",
+                "8": "100 Tsd - 250 Tsd",
+                "9": "50 Tsd - 100 Tsd",
+                "10": "20 Tsd - 50 Tsd",
+                "11": "5 Tsd - 20 Tsd",
+                "12": "1 Tsd - 5 Tsd",
+                "13": "< 1 Tsd"
+            },
+            "state": {
+                "1": "Schleswig-Holstein",
+                "2": "Freie und Hansestadt Hamburg",
+                "3": "Niedersachsen",
+                "4": "Freie Hansestadt Bremen",
+                "5": "Nordrhein-Westfalen",
+                "6": "Hessen",
+                "7": "Rheinland-Pfalz",
+                "8": "Baden-Württemberg",
+                "9": "Bayern",
+                "10": "Saarland",
+                "11": "Berlin",
+                "12": "Brandenburg",
+                "13": "Mecklenburg-Vorpommern",
+                "14": "Freistaat Sachsen",
+                "15": "Sachsen-Anhalt",
+                "16": "Thüringen"
+            },
+            "geo": {
+                "N": "Nord",
+                "S": "Süd",
+                "W": "West",
+                "E": "Ost"
+            },
+            "name": {
+                "B": "Berlin",
+                "HH": "Hamburg",
+                "M": "München",
+                "K": "Köln",
+                "F": "Frankfurt am Main",
+                "S": "Stuttgart"
+            }
+    
+        },
+        "country": {
+            "name": {
+                "DE": "Deutschland"
+            },
+            "geo": {
+                "_": "here as North/South_Europe etc."
+            },
+            "continent": {
+                "_": "this connected to a continent table",
+                "EU": "Europe"
+            }
+        }
+    }
+}

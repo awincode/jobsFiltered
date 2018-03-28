@@ -1,0 +1,453 @@
+{
+    "details": {
+        "1234567890": {
+            "id": 1234567890,
+            "company": "Porsche",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "1234567891": {
+            "id": 1234567891,
+            "company": "Porsche",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "1234567892": {
+            "id": 1234567892,
+            "company": "Porsche",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "2234567890": {
+            "id": 2234567890,
+            "company": "BMW",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "2234567891": {
+            "id": 2234567891,
+            "company": "BMW",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "3234567890": {
+            "id": 3234567890,
+            "company": "Daimler",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "3234567891": {
+            "id": 3234567891,
+            "company": "Daimler",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 2,
+            "duration": null
+        },
+        "3234567892": {
+            "id": 3234567892,
+            "company": "Daimler",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "3234567893": {
+            "id": 3234567893,
+            "company": "Daimler",
+            "country": "DE",
+            "city": "S",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "4234567890": {
+            "id": 4234567890,
+            "company": "Deutsche_Bank",
+            "country": "DE",
+            "city": "F",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "5234567890": {
+            "id": 5234567890,
+            "company": "Ford",
+            "country": "DE",
+            "city": "K",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "5234567891": {
+            "id": 5234567891,
+            "company": "Ford",
+            "country": "DE",
+            "city": "K",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "6234567890": {
+            "id": 6234567890,
+            "company": "Lilt",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "6234567891": {
+            "id": 6234567891,
+            "company": "Lilt",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "6234567892": {
+            "id": 6234567892,
+            "company": "Lilt",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "6234567893": {
+            "id": 6234567893,
+            "company": "Arithnea",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        },
+        "6234567894": {
+            "id": 6234567894,
+            "company": "Arithnea",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "6234567895": {
+            "id": 6234567895,
+            "company": "Arithnea",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "6234567896": {
+            "id": 6234567896,
+            "company": "Iteratec",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "6234567897": {
+            "id": 6234567897,
+            "company": "Iteratec",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 3,
+            "duration": null
+        },
+        "6234567898": {
+            "id": 6234567898,
+            "company": "Porsche",
+            "country": "DE",
+            "city": "M",
+            "smin": null,
+            "smax": null,
+            "url": "",
+            "pubDate": null,
+            "startDate": null,
+            "type": 1,
+            "duration": null
+        }
+
+        
+    },
+    "loc": {
+        "de": {
+            "1234567890": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 1234567890...."
+            },
+            "1234567891": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 1234567891...."
+            },
+            "1234567892": {
+                "title": "Data Analyst",
+                "intro": "Data Analyst is aweravas 1234567892...."
+            },
+            "2234567890": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 2234567890...."
+            },
+            "2234567891": {
+                "title": "Data Analyst",
+                "intro": "Data Analyst is aweravas 2234567891...."
+            },
+            "3234567890": {
+                "title": "Frontend Engineer",
+                "intro": "Frontend Engineer is aweravas 3234567890...."
+            },
+            "3234567891": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 3234567891...."
+            },
+            "3234567892": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 3234567892...."
+            },
+            "3234567893": {
+                "title": "Data Analyst",
+                "intro": "Data Analyst is aweravas 3234567893...."
+            },
+            "4234567890": {
+                "title": "Senior Data Analyst",
+                "intro": "Data Analyst is aweravas 4234567890...."
+            },
+            "5234567890": {
+                "title": "Frontend Engineer",
+                "intro": "Frontend Engineer is aweravas 5234567890...."
+            },
+            "5234567891": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 5234567891...."
+            },
+            "6234567890": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567890...."
+            },
+            "6234567891": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 6234567891...."
+            },
+            "6234567892": {
+                "title": "Senior Fullstack Engineer",
+                "intro": "Senior Fullstack Engineer is aweravas 6234567892...."
+            },
+            "6234567893": {
+                "title": "Frontend Engineer",
+                "intro": "Frontend Engineer is aweravas 6234567893...."
+            },
+            "6234567894": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567894...."
+            },
+            "6234567895": {
+                "title": "Senior Fullstack Engineer",
+                "intro": "Senior Fullstack Engineer is aweravas 6234567895...."
+            },
+            "6234567896": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567896...."
+            },
+            "6234567897": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 6234567897...."
+            },
+            "6234567898": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567898...."
+            }
+        },
+        "en": {
+            "1234567890": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 1234567890...."
+            },
+            "1234567891": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 1234567891...."
+            },
+            "1234567892": {
+                "title": "Data Analyst",
+                "intro": "Data Analyst is aweravas 1234567892...."
+            },
+            "2234567890": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 2234567890...."
+            },
+            "2234567891": {
+                "title": "Data Analyst",
+                "intro": "Data Analyst is aweravas 2234567891...."
+            },
+            "3234567890": {
+                "title": "Frontend Engineer",
+                "intro": "Frontend Engineer is aweravas 3234567890...."
+            },
+            "3234567891": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 3234567891...."
+            },
+            "3234567892": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 3234567892...."
+            },
+            "3234567893": {
+                "title": "Data Analyst",
+                "intro": "Data Analyst is aweravas 3234567893...."
+            },
+            "4234567890": {
+                "title": "Senior Data Analyst",
+                "intro": "Data Analyst is aweravas 4234567890...."
+            },
+            "5234567890": {
+                "title": "Frontend Engineer",
+                "intro": "Frontend Engineer is aweravas 5234567890...."
+            },
+            "5234567891": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 5234567891...."
+            },
+            "6234567890": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567890...."
+            },
+            "6234567891": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 6234567891...."
+            },
+            "6234567892": {
+                "title": "Senior Fullstack Engineer",
+                "intro": "Senior Fullstack Engineer is aweravas 6234567892...."
+            },
+            "6234567893": {
+                "title": "Frontend Engineer",
+                "intro": "Frontend Engineer is aweravas 6234567893...."
+            },
+            "6234567894": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567894...."
+            },
+            "6234567895": {
+                "title": "Senior Fullstack Engineer",
+                "intro": "Senior Fullstack Engineer is aweravas 6234567895...."
+            },
+            "6234567896": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567896...."
+            },
+            "6234567897": {
+                "title": "Senior Backend Engineer",
+                "intro": "Senior Backend Engineer is aweravas 6234567897...."
+            },
+            "6234567898": {
+                "title": "Senior Frontend Engineer",
+                "intro": "Senior Frontend Engineer is aweravas 6234567898...."
+            }
+        }        
+    }
+}
